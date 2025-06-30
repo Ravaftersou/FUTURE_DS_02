@@ -74,13 +74,8 @@ This project improved my understanding of how businesses use data to optimize so
 
 ---
 
-## 📎 Screenshots
-
-Social Media Campaign/Social Media Dashboard image.png
-
----
 
 ## 📬 Contact
 
-For any queries or feedback, feel free to reach out via [LinkedIn](www.linkedin.com/in/sourav-nath-71517032).
+For any queries or feedback, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sourav-nath-715170320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 
